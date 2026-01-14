@@ -1,4 +1,4 @@
-# PropXplain: Explainable Propaganda Detection
+# [PropXplain: Explainable Propaganda Detection](https://aclanthology.org/2025.findings-emnlp.1296/)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-green.svg)](https://python.org)
